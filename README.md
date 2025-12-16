@@ -1,1 +1,1 @@
-[![Java Tests](https://github.com/backupwow2085/Automated-testing-3-2/actions/workflows/main.yml/badge.svg)](https://github.com/backupwow2085/Automated-testing-3-2/actions/workflows/main.yml)
+[![Java Tests](https://github.com/backupwow2085/backupwow2085-Automated-testing-3-3/actions/workflows/main.yml/badge.svg)](https://github.com/backupwow2085/backupwow2085-Automated-testing-3-3/actions/workflows/main.yml)
