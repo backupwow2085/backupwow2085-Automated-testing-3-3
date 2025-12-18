@@ -12,19 +12,6 @@ java {
 compileJava.options.encoding = "UTF-8"
 compileTestJava.options.encoding = "UTF-8"
 
-sourceSets {
-    main {
-        java {
-            srcDirs = []
-        }
-    }
-    test {
-        java {
-            srcDirs = ['.']
-        }
-    }
-}
-
 repositories {
     mavenCentral()
 }
